@@ -1,15 +1,19 @@
-# Küresel Isınma Projesi
+# İklim Değişikliği Haberleri Projesi
 
-## Orman Durumu
-Uydu görüntüleriyle ormanların mevcut durumunu gösterir.
+## Amaç
+Kullanıcılara güncel iklim değişikliği haberlerini ve verilerini sunmak.
 
-## Karbon Ayak İzi
-Kullanıcı verilerine göre yıllık CO₂ salınımını hesaplar.
+## Özellikler
+- API üzerinden son dakika haberlerini toplar.
+- Kullanıcıya basit arayüz ile haberleri listeler.
+- İklim değişikliğiyle ilgili özet bilgiler verir.
 
-## Hava Verileri
-API üzerinden güncel hava ve iklim bilgilerini sunar.
+## Teknolojiler
+- Python (Flask)
+- Requests (API bağlantısı)
+- HTML & CSS
 
-## Gelecek Planı
-- Yeni veri kaynakları
-- Grafik desteği
-- Rapor indirme özelliği
+## Gelecek Planları
+- Farklı haber kaynaklarını eklemek
+- Haberleri kategorilere ayırmak
+- Görsel destek (grafik ve harita)
