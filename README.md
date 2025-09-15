@@ -1,2 +1,2 @@
-# iklim-haberleri-sunum
-İklim Haberleri ve Verileri
+# Küresel Isınma Projesi
+## Orman Durum Uydu görüntüleriyle ormanların durumunu kontrol eden program.
